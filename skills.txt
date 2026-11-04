@@ -1,0 +1,5 @@
+MERN Stack
+Next.js 
+SQL
+python
+typescript
