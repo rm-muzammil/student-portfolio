@@ -1,1 +1,4 @@
-project : Student Management System
+Projects:
+1. Student Management System
+2. Portfolio Website
+3. Inventory Management App
